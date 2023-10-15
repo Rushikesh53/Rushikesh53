@@ -6,5 +6,5 @@ You might find me sometime here 😉 <br>
 <br><br>
 🔗 Connect with me <br>
 <a href="www.linkedin.com/in/rushikesh-lakhotiya"><img align=”left” src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt=”Rushikesh | LinkedIn” width=”21px”/>></a> 
-<a href="https://www.instagram.com/lakhotiya_r_r/"><img align=”left” src=”https://raw.githubusercontent.com/Rushikesh53/Rushikesh53/main/images/LinkedIn_icon.svg.png" alt=”Rushikesh | Instagram” width=”21px”/>></a> 
+<a href="https://www.instagram.com/lakhotiya_r_r/"><img align=”left” src="https://raw.githubusercontent.com/Rushikesh53/Rushikesh53/main/images/LinkedIn_icon.svg.png" alt=”Rushikesh | Instagram” width=”21px”/>></a> 
 
