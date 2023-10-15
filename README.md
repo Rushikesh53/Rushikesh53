@@ -3,7 +3,7 @@
 You might find me sometime here 😉 <br>
 🔴 I'm a Front-End Web Developer 💻 <br>
 🔵 Currently learning Fullstack Development 👨‍💻 <br>
-
+<br><br>
 🔗 Connect with me <br>
 
 
