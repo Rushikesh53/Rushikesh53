@@ -13,7 +13,7 @@
       <a href="https://www.linkedin.com/in/rushikesh-lakhotiya/"><img align=”left” src="https://raw.githubusercontent.com/Rushikesh53/Rushikesh53/main/images/LinkedIn_icon.svg.png" alt=”LinkedIn” height="20px" width=”20px”/></a> 
     </td>
     <td>
-      <img align=”center” src="https://raw.githubusercontent.com/Rushikesh53/Rushikesh53/main/images/cat.gif" alt=”gif” height="200px"/>
+      <img align=”center” src="https://raw.githubusercontent.com/Rushikesh53/Rushikesh53/main/images/cat.gif" alt=”gif” height="300px"/>
     </td>
   </tr>
 </table>
