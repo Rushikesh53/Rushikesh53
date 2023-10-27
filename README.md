@@ -2,7 +2,7 @@
 
 <p align=”center”> <img src="https://github.com/Rushikesh53/Rushikesh53/assets/93590073/095ccb2b-0735-4894-8ea8-e1e73bfdaf01" alt=”my banner”></p>
 
-<table style="width:100% ; align:center ; border:none ;">
+<table style="width:100%" align="center">
   <tr>
     <td>
       <h3>Hey There I'm Rushikesh Lakhotiya 👋</h3>
