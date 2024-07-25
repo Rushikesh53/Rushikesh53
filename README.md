@@ -7,7 +7,7 @@
     <h3>Hey There I'm Rushikesh Lakhotiya 👋</h3>
       You might find me sometime here 😉 <br>
       🔴 I'm a Front-End Web Developer 💻 <br>
-      🔵 Currently learning Fullstack Development👨‍💻 & Blockchain⛓️ <br>
+      🔵 Currently learning Fullstack Development👨‍💻 <br>
       <br><br>
       🔗 Connect with me <br>
       &nbsp;
