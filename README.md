@@ -1,7 +1,7 @@
 <p align=”center”> <img src="https://github.com/Rushikesh53/Rushikesh53/assets/93590073/095ccb2b-0735-4894-8ea8-e1e73bfdaf01" alt=”my banner”></p>
-<div>
+<!-- <div>
     <img style = "display:block;" align="right" height="300" src="https://raw.githubusercontent.com/Rushikesh53/Rushikesh53/main/images/cat.gif"  />
-  </div>
+  </div> -->
   
   <div align="left">
     <h3>Hey There I'm Rushikesh Lakhotiya 👋</h3>
