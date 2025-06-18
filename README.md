@@ -5,9 +5,8 @@
   
   <div align="left">
     <h3>Hey There I'm Rushikesh Lakhotiya 👋</h3>
-      You might find me sometime here 😉 <br>
-      🔴 I'm a Front-End Web Developer and Machine Learning enthusiast 💻 <br>
-      🔵 Currently learning Fullstack Development👨‍💻 <br>
+      You might find me here sometime 😉 <br>
+      🔴 I'm a Machine Learning enthusiast 👨‍💻 <br>
       <br><br>
       🔗 Connect with me <br>
       &nbsp;
